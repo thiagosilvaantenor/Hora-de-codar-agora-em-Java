@@ -2,9 +2,8 @@
 <div align=center>
 <img src="https://apexensino.com.br/wp-content/uploads/2017/03/banner-java.jpg" width:100% />
 </div>
-
+<h3>🆕Atualizado em, 10/07/23, com packages. Os exercicios estão em "src/exercicios"</h3>
 <h2> Exercicios de Java propostos pelo professor Gabriel Augusto do Instituto Proa, para o curso PROPROFISSÃO </h2>
-
 <h2 align=center> Questões </h2>
 
 1 - Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão".

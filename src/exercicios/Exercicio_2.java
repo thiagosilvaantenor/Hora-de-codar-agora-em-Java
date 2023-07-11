@@ -10,10 +10,11 @@ public class Exercicio_2 {
 		 */
 		String nome;
 		Scanner sc = new Scanner(System.in);
-		sc.close();
 		System.out.println("Informe o seu nome");
 		nome = sc.next();
+		sc.close();
 		System.out.println("Olá, " + nome);
+		
 
 	}
 
